@@ -12,14 +12,14 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "🍃 𝗠𝗜𝗔 (🌸◠‿◠)",
-	"prefix": "•",
+	"nickNameBot": "🍃 PRINCE DE LA CALLE🇷🇺(🌸◠‿◠)",
+	"prefix": "&",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-       "100084606198768"
+       "100051956832579"
 ],
 
 	"whiteListMode": {
